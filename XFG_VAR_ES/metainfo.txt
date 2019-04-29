@@ -1,0 +1,13 @@
+Name of QuantLet : XFG_VaR_ES
+
+Published in : 
+
+Description : 'Creates density plots with VaR and Expected Shortfall of Deutsche Bank daily stock returns in a time period from April 2017 - April 2019. Compares the nonparametric kernel density estimate with a parametric maximum likelihood estimate assuming normal distributed returns.'
+
+Keywords : VaR, Expected Shortfall, ES, kernel density
+
+See also : 'MSM_VaRandES, SFEVaRbank, SPMkdeconstruct'
+
+Author : Georg Keilbar
+
+Submitted : April 4 2019 by Georg Keilbar

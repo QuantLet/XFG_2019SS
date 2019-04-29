@@ -1,0 +1,13 @@
+Name of QuantLet : XFG_Cornish_Fisher
+
+Published in : 'XFG'
+
+Description : 'Function for calculating the Cornish Fisher approximation for given quantile levels. Plots the extreme quantiles of the CF approximation vs. quantiles of the normal distribution.'
+
+Keywords : VaR, Cornish Fisher, Value at risk
+
+See also : 'XFG_VaR_ES, XFGcofi, SPL_VAR_CVAR_Calculation'
+
+Author : Georg Keilbar
+
+Submitted : April 28 2019 by Georg Keilbar
